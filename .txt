@@ -1,1 +1,0 @@
-mongodb+srv://Hospital_API:<db_password>@cluster0.6o370ar.mongodb.net/
